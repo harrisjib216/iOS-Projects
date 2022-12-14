@@ -11,5 +11,9 @@ The game has been upgraded to Swift 5.
 - Press and hold the screen to split your player into two players.
 - Your task is to avoid all of the obstacles.
 
-<img src="GamePlay.png" alt="drawing" width="256" style="margin-right: 15px"/>
-<img src="GameOver.png" alt="drawing" width="256"/>
+
+<p float="left">
+  <img src="GamePlay.png" alt="drawing" width="256" style="margin-right: 15px"/>
+  <img src="GameOver.png" alt="drawing" width="256"/>
+</p>
+
