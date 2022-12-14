@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F5A22CE221B7CCC00A3D7D5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F5A22CD221B7CCC00A3D7D5 /* GoogleService-Info.plist */; };
 		2F64D7FF2207863B00BEAE94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F64D7FE2207863B00BEAE94 /* AppDelegate.swift */; };
 		2F64D8012207863B00BEAE94 /* WelcomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F64D8002207863B00BEAE94 /* WelcomeVC.swift */; };
 		2F64D8042207863B00BEAE94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F64D8022207863B00BEAE94 /* Main.storyboard */; };
@@ -22,13 +21,13 @@
 		2FD0F61822093ECA00CC25C3 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD0F61722093ECA00CC25C3 /* HomeVC.swift */; };
 		2FD0F61A2209429800CC25C3 /* HomeTVCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD0F6192209429800CC25C3 /* HomeTVCell.swift */; };
 		2FD59617221EC37A00C00A81 /* SignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD59616221EC37A00C00A81 /* SignInVC.swift */; };
+		33245E1B294A4AC100669A02 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 33245E1A294A4AC000669A02 /* GoogleService-Info.plist */; };
 		EAD97648D237EB91C1265967 /* Pods_Winstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 15FB35F3E34A79D8E310EA49 /* Pods_Winstagram.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0F7890B984E6A2DBC10A5400 /* Pods-Winstagram.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Winstagram.release.xcconfig"; path = "Target Support Files/Pods-Winstagram/Pods-Winstagram.release.xcconfig"; sourceTree = "<group>"; };
 		15FB35F3E34A79D8E310EA49 /* Pods_Winstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Winstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F5A22CD221B7CCC00A3D7D5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2F64D7FB2207863B00BEAE94 /* Winstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Winstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F64D7FE2207863B00BEAE94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F64D8002207863B00BEAE94 /* WelcomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeVC.swift; sourceTree = "<group>"; };
@@ -45,6 +44,7 @@
 		2FD0F61722093ECA00CC25C3 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		2FD0F6192209429800CC25C3 /* HomeTVCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTVCell.swift; sourceTree = "<group>"; };
 		2FD59616221EC37A00C00A81 /* SignInVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInVC.swift; sourceTree = "<group>"; };
+		33245E1A294A4AC000669A02 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A732A21775E9243781B8F2F8 /* Pods-Winstagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Winstagram.debug.xcconfig"; path = "Target Support Files/Pods-Winstagram/Pods-Winstagram.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,9 +95,9 @@
 				2F7740732208FD9700B44B84 /* create */,
 				2FD0F61622093EBA00CC25C3 /* home */,
 				2F64D8052207863C00BEAE94 /* Assets.xcassets */,
+				33245E1A294A4AC000669A02 /* GoogleService-Info.plist */,
 				2F64D8072207863C00BEAE94 /* LaunchScreen.storyboard */,
 				2F64D8022207863B00BEAE94 /* Main.storyboard */,
-				2F5A22CD221B7CCC00A3D7D5 /* GoogleService-Info.plist */,
 				2F64D80A2207863C00BEAE94 /* Info.plist */,
 			);
 			path = Winstagram;
@@ -220,7 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F64D8092207863C00BEAE94 /* LaunchScreen.storyboard in Resources */,
-				2F5A22CE221B7CCC00A3D7D5 /* GoogleService-Info.plist in Resources */,
+				33245E1B294A4AC100669A02 /* GoogleService-Info.plist in Resources */,
 				2F64D8062207863C00BEAE94 /* Assets.xcassets in Resources */,
 				2F64D8042207863B00BEAE94 /* Main.storyboard in Resources */,
 			);
