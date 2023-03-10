@@ -1,6 +1,6 @@
 # Winstagram
 
-Winstagram is a version of Instagram that I built for simplicity. I built this app during my time in high school (and briefly after for interviews 🤠) but have kept the project around for its nostalgia.
+Winstagram is a version of Instagram that I built sometime in 2018 for simplicity. I built this app during my time in high school (and briefly after for interviews 🤠) but have kept the project around for its nostalgia.
 
 ## Screenshots
 
