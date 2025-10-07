@@ -16,7 +16,6 @@ If you're from the team that built the iPhone — hi 👋 — this is where I sh
 ├── UIKit/             # View-controller based apps  
 ├── SwiftUI/           # Modern UI, declarative style  
 ├── Games/             # Various SpriteKit games
-└── .gitignore
 ```
 
 ## 🦺 Some things I've built:
