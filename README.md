@@ -37,3 +37,13 @@ If you're from the team that built the iPhone — hi 👋 — this is where I sh
 - Attention to detail: I obsess over the small stuff — smooth animations, natural state transitions, and interfaces that just feel right.
 - Curiosity & growth: Every folder in this repo is a snapshot of something I was learning or exploring. I treat each project like a small lab experiment in becoming a better developer.
 - End-to-end awareness: From UI to networking, persistence, app lifecycle, and performance tuning — I enjoy understanding how all the moving parts fit together to make a great experience.
+
+## 📬 Let’s chat
+
+I’d love to tell you the story behind any project. Ask about architecture, ideas, or why I build weird UI demos at 4 a.m.
+
+Thanks for stopping by — hope you see both my skills and my passion.
+
+LinkedIn: https://www.linkedin.com/in/jibril-harris/
+
+— Jibril
