@@ -1,4 +1,4 @@
-# YoKeyboard
+# YoKiboard
 
 This is my implementation of a custom keyboard built with lots of patience, Objective C, and JavaScript.
 I built this prototype/keyboard to try something new, and I hope that you enjoy it!
