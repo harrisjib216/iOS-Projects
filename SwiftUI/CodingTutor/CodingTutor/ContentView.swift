@@ -81,7 +81,12 @@ struct ContentView: View {
             } catch {
                 await MainActor.run {
                     withAnimation {
-                        messages.append(Message(text: "Failed to get response", isAi: true))
+                        if client.apiKey.isEmpty {
+                            messages.append(Message(text: "Please set your API key", isAi: true))
+                        } else {
+                            messages.append(Message(text: "Failed to get response", isAi: true))
+                        }
+                        
                         isAiTyping = false
                     }
                 }

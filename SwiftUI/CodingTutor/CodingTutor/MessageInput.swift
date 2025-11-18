@@ -22,6 +22,7 @@ struct MessageInput: View {
             Button("Send message", systemImage: "arrow.up.circle.fill", action: onSubmit)
                 .labelStyle(.iconOnly)
                 .font(.title)
+                .foregroundStyle(newMessage.isEmpty ? .gray : .blue)
                 .disabled(newMessage.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty)
         }
         .onAppear {
